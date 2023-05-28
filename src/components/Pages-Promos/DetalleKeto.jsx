@@ -16,7 +16,6 @@ function DetalleKeto() {
           <p>2 Alemancito Prima</p>
           <p>2 Figa Pollo y Tomate</p>
           <p>2 Pizzeta Muzza</p>
-          <p>2 Pizzetas Muzza</p>
           <p>2 Tarteleta Capresse</p>
           <strong className='text-pink-600 text-xl mt-1'>$2.500</strong>
         </div>
@@ -27,7 +26,6 @@ function DetalleKeto() {
           <p>5 Alemancito Prima</p>
           <p>5 Figa Pollo y Tomate</p>
           <p>5 Pizzeta Muzza</p>
-          <p>5 Pizzetas Muzza</p>
           <p>5 Tarteleta Capresse</p>
           <strong className='text-pink-600 text-xl mt-1'>$6.250</strong>
         </div>
@@ -40,7 +38,6 @@ function DetalleKeto() {
           <p>10 Alemancito Prima</p>
           <p>10 Figa Pollo y Tomate</p>
           <p>10 Pizzeta Muzza</p>
-          <p>10 Pizzetas Muzza</p>
           <p>10 Tarteleta Capresse</p>
           <strong className='text-pink-600 text-xl mt-1'>$12.500</strong>
         </div>
@@ -53,7 +50,6 @@ function DetalleKeto() {
           <p>15 Alemancito Prima</p>
           <p>15 Figa Pollo y Tomate</p>
           <p>15 Pizzeta Muzza</p>
-          <p>15 Pizzetas Muzza</p>
           <p>15 Tarteleta Capresse</p>
           <strong className='text-pink-600 text-xl mt-1'>$18.750</strong>
         </div>
@@ -66,7 +62,6 @@ function DetalleKeto() {
           <p>20 Alemancito Prima</p>
           <p>20 Figa Pollo y Tomate</p>
           <p>20 Pizzeta Muzza</p>
-          <p>20 Pizzetas Muzza</p>
           <p>20 Tarteleta Capresse</p>
           <strong className='text-pink-600 text-xl mt-1'>$25.000</strong>
         </div>
@@ -79,7 +74,6 @@ function DetalleKeto() {
           <p>25 Alemancito Prima</p>
           <p>25 Figa Pollo y Tomate</p>
           <p>25 Pizzeta Muzza</p>
-          <p>25 Pizzetas Muzza</p>
           <p>25 Tarteleta Capresse</p>
           <strong className='text-pink-600 text-xl mt-1'>$31.250</strong>
         </div>
@@ -92,7 +86,6 @@ function DetalleKeto() {
           <p>30 Alemancito Prima</p>
           <p>30 Figa Pollo y Tomate</p>
           <p>30 Pizzeta Muzza</p>
-          <p>30 Pizzetas Muzza</p>
           <p>30 Tarteleta Capresse</p>
           <strong className='text-pink-600 text-xl mt-1'>$37.500</strong>
         </div>

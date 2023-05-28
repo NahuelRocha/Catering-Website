@@ -5,7 +5,7 @@ import FooterContact from './FooterContact';
 function FooterNav() {
   return (
     <div className='flex'>
-      <div className='flex px-14'>
+      <div className='flex px-4 sm:px-16'>
         <div className='items-center'>
           <h5 className='font-bold text-black/60 mb-2'>NAVEGACIÓN</h5>
           <ul>

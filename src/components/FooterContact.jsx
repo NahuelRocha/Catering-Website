@@ -17,7 +17,7 @@ function FooterContact() {
           </li>
           <li className='p-1'>
             <p className='text-black/60 flex text-sm'>
-              <HiOutlineMail className='text-lg mr-1 text-pink-400' />
+              <HiOutlineMail className='text-lg  mr-1 text-pink-400' />
               Dani_sagardoy@hotmail.com
             </p>
           </li>
