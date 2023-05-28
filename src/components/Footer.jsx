@@ -6,7 +6,7 @@ function Footer() {
 
   return (
     <div>
-      <div className='border-t border-black/70 mr-10 ml-10 mt-5'></div>
+      <div className='border-t border-pink-400 mr-10 ml-10 mt-5'></div>
       <h5 className='mt-2 pb-2 flex justify-center text-center'>
         Copyright Daniela Eventos - 2023. Todos los derechos reservados.
       </h5>

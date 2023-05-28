@@ -38,7 +38,7 @@ function Redes() {
           </li>
         </ul>
       </div>
-      <div className='bg-pink-200 h-[1.4px] w-full z-10'></div>
+      <div className='bg-pink-400 h-[1.4px] w-full z-10'></div>
     </>
   );
 }

@@ -20,8 +20,11 @@ function Home() {
         <NavBar />
       </div>
       <ImageSlider />
+      <br />
       <PagosEnvios />
+      <br />
       <Button />
+      <br />
       <Divde />
       <Footer />
     </>
